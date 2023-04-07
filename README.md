@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Julio Cesar! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=julio-soft&color=blue)</div>
 
-<!--
-**julio-soft/julio-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **I'm a Software Engineer, Technology Love and an avid DDD Enthusiast.**
 
-Here are some ideas to get you started:
+- 🎯 **I’m currently working on**: Freelancer and personal proyect
+- 💬 **Topics and technologies I love**: .NET C#, TypeScritp(React, Vue.js, Next.js, Nest.js, tRPC, Pirsma, and more..), DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing.
+- 📫 **How to reach me**: Reach out and connect with me on this email juliocesar260997@gmail.com ! 
+- ⚡ **Fun fact**: I love read 📚 and solve problems 🤔.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<a href="https://github.com/julio-soft">
+  <img src="https://github-readme-stats.vercel.app/api?username=julio-soft&count_private=true&show_icons=true&hide=stars" />
+</a>
